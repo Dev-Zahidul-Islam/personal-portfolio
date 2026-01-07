@@ -53,6 +53,7 @@ header{
     background-position: top left, bottom right;
     background-repeat: no-repeat;
     padding-top: 80px;
+    
 
 }
 
@@ -83,7 +84,6 @@ nav .menu a{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    
   
     
 }
@@ -148,6 +148,3 @@ nav .menu a{
     color: #757575;
 }
 
-.about-info .info-cards h4 {
-    
-}
